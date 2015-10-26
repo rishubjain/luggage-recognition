@@ -5,3 +5,7 @@ During my senior year of high school, I created a luggage recognition system mea
 kmeans.py - Finds the number of distinct colors in each image
 
 outline.py - Finds the dimensions of each image
+
+Senior Research Paper.pdf - My Research Paper
+
+Senior Research Presentation.pptx - My Research Presentation
